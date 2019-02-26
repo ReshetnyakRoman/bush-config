@@ -1,7 +1,0 @@
-alias rf='rm -rf'
-alias ll='ls -la'
-alias gs='git status'
-alias ga='git add'
-alias go='git checkout'
-alias gl='git log --graph --pretty=oneline --abbrev-commit'
-export PS1='\e[0;34m\u\e[m \e[0;31m@\e[m \e[0;32m\w\e[m \e[0;31m>\e[m'
